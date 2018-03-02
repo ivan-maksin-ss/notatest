@@ -13,7 +13,7 @@
 
 Схема БД
 
-![Схема БД](/scheme.png)
+![Схема БД](scheme.png)
 ```sql
 -- Таблица заявок. 
 CREATE TABLE `friends_claim` (
